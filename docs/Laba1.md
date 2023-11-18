@@ -36,6 +36,9 @@ My Labs of Software Architecture
 
 Диаграмма вариантов использования для функциональных требований:
  ![image](https://github.com/Vadim-Charming-Concerts/HSE_Labs_Software_Architecture/assets/100124384/80828036-a72c-408f-bde8-4ba8f9c3acc8)
+ 
 Рисунок 1 – Диаграмма вариантов использования (ПО)
+
  ![image](https://github.com/Vadim-Charming-Concerts/HSE_Labs_Software_Architecture/assets/100124384/f52d01f2-aa62-40c5-82ae-0850a78b6d0f)
+ 
 Рисунок 2 – Диаграмма вариантов использования (КТС)
